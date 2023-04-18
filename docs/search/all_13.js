@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['undelete_0',['UnDelete',['../a00073.html#a94a6ef73d97ee7887fadebbd699ccedd',1,'CISBase']]],
+  ['undotempstatus_1',['UndoTempStatus',['../a00097.html#ad49abf73ea1431bc437ef4aaff6c7077',1,'CISVariantPartOBJ']]],
+  ['ungroup_2',['Ungroup',['../a00011.html#gaed19ca0e030469e35f586a1165547e95',1,'capture_commands.h']]],
+  ['unselectall_3',['UnSelectAll',['../a00011.html#ga430dcf5677589c3ea8dfba2dd805f7b9',1,'capture_commands.h']]],
+  ['unselectobject_4',['UnSelectObject',['../a00011.html#gaecaaa5dc9c0f82fe40be1767247f2963',1,'capture_commands.h']]],
+  ['unsetbitmask_5',['UnsetBitmask',['../a00169.html#aac158550346d05186f9b6547550bd3ee',1,'DboBaseObject']]],
+  ['update_6',['Update',['../a00945.html#a186c6bd8d3da9fca414ab2d2ca8156fb',1,'DboPlacedInst']]],
+  ['updateallpartstatus_7',['UpdateAllPartStatus',['../a00117.html#a340e81a8311644a0a0517b5a777b8e35',1,'CPartMgmt']]],
+  ['updatebundleowner_8',['UpdateBundleOwner',['../a00169.html#a7621fc6f81243c874582c156bba21932',1,'DboBaseObject::UpdateBundleOwner(CString BundleOwnerName, CString srcLib=&quot;&quot;)'],['../a00169.html#a544f742ffb1efce1c036a8649c2cd2ad',1,'DboBaseObject::UpdateBundleOwner(CString BundleOwnerName)']]],
+  ['updatecache_9',['UpdateCache',['../a00085.html#a3d3161d888f5450771cd13733ba4923b',1,'CISDesign::UpdateCache()'],['../a00229.html#a4e7bdf8ada77af0db490ae4d26f6eb64',1,'DboLib::UpdateCache(CString &amp;sourceLibName, CString &amp;sourceObjName, enum DboBaseObject::ObjectTypeT nObjType, int bUpdate=1)'],['../a00229.html#a87df0ddee5c7aaa23ca8acc6f6a94a49',1,'DboLib::UpdateCache(CString &amp;sourceLibName, CString &amp;sourceObjName, enum DboBaseObject::ObjectTypeT nObjType)']]],
+  ['updatefieldlist_10',['UpdateFieldList',['../a00125.html#ad3d01a0cf299bce723bde1f7833092a3',1,'CPMgtCfg']]],
+  ['updatefilestream_11',['UpdateFileStream',['../a01465.html#a7fb5153b887b37267028e9c3bd62981c',1,'DboMiscFileWriter']]],
+  ['updateflatnetsofallinstantiatingdesigns_12',['UpdateFlatNetsOfAllInstantiatingDesigns',['../a00545.html#acdb29883c1b8d5da722975964894ea9e',1,'DboSchematic']]],
+  ['updateheierarchy_13',['UpdateHeierarchy',['../a00085.html#a2a73c42fd12122c9a2a317a48b8b1f08',1,'CISDesign::UpdateHeierarchy()'],['../a00089.html#ab2e3cc9c0413f8161c436be045278150',1,'CISSchematic::UpdateHeierarchy()'],['../a00093.html#a100a0d2662488cb17bbe6e4fe70dea46',1,'CISPage::UpdateHeierarchy()']]],
+  ['updatenetandports_14',['UpdateNetAndPorts',['../a01081.html#a003e997ef16a4b0cd773c5b51c9a91a5',1,'DboInstOccurrence']]],
+  ['updatenextreference_15',['UpdateNextReference',['../a00545.html#aa82501cedf56e840fb184d2810859e43',1,'DboSchematic']]],
+  ['updateopprop_16',['UpdateOpProp',['../a00945.html#abcbc9efa08424668eb01c9ef4db8d4c8',1,'DboPlacedInst']]],
+  ['updatepagestate_17',['UpdatePageState',['../a00725.html#a3fb959a6c844242eadafe6ddecb2625f',1,'DboPage']]],
+  ['updatepart_18',['UpdatePart',['../a00085.html#ab904e55639c330a1122b9dd5506d2c66',1,'CISDesign']]],
+  ['updateredostate_19',['UpdateRedoState',['../a00725.html#afc0de7285ca97df0381b4c2eba5482b9',1,'DboPage']]],
+  ['updatesqlstatement_20',['UpdateSQLStatement',['../a00125.html#afe6cb82d410c81e7944be60eb9703b3c',1,'CPMgtCfg']]],
+  ['updatetableslist_21',['UpdateTablesList',['../a00125.html#af8727e8045bf8cf602a7e3686a162e17',1,'CPMgtCfg']]],
+  ['updateunnamednetgroupregistry_22',['UpdateUnnamedNetgroupRegistry',['../a00465.html#afe42eb5e06b4a670719c5d894939a927',1,'DboView::UpdateUnnamedNetgroupRegistry(std::string name, DboBaseObject *pNetgrp, std::string oldName=&quot;&quot;)'],['../a00465.html#abe4715fe9171d51c854c6e5c492bfab2',1,'DboView::UpdateUnnamedNetgroupRegistry(std::string name, DboBaseObject *pNetgrp)']]],
+  ['updateunnamednetsymbols_23',['UpdateUnnamedNetSymbols',['../a00545.html#a5b2ce5d1135fa43e10793a62293f187b',1,'DboSchematic']]],
+  ['userpropexists_24',['UserPropExists',['../a00073.html#abdb2e63585e3f191642af3da280339e1',1,'CISBase']]]
+];

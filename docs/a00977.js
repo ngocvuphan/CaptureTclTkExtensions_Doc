@@ -1,0 +1,27 @@
+var a00977 =
+[
+    [ "Disconnect", "a00977.html#a8aa9a76edc02b5f73deaf4145679d059", null ],
+    [ "GetBoundingBox", "a00977.html#a79994b33f38af64d7580f463687abe75", null ],
+    [ "GetHotSpot", "a00977.html#a070de7592afc45c4c6c142d7e42ece75", null ],
+    [ "GetNet", "a00977.html#a4c63a6124c966c3fab2e2dff2cbca2a8", null ],
+    [ "GetOccBasedOnOccId", "a00977.html#aa5d75cfe34b927e531fc61de75a539d5", null ],
+    [ "GetOffsetHotSpot", "a00977.html#a43fc4ad46cfea75113fe7d79e556564d", null ],
+    [ "GetSourceLibName", "a00977.html#a4770552d5a58bad6cacdaeae6d342f5f", null ],
+    [ "GetSourceSymbolName", "a00977.html#a175e329637c99830874862b2c54fb378", null ],
+    [ "GetSymbol", "a00977.html#a453df1ccaef14f453c2089753079ff7d", null ],
+    [ "GetWire", "a00977.html#a965b60d637210225772ee16bd1975bb4", null ],
+    [ "IsBoundingBoxDirty", "a00977.html#a24caa5efb3ce1f0ac22b43a95b3bb1ae", null ],
+    [ "IsBus", "a00977.html#a6c7130c037083d93c5ad3cfee777995b", null ],
+    [ "Move", "a00977.html#a3c707d80fc66774ecc838ec0f807837b", null ],
+    [ "SetBoundingBox", "a00977.html#a7e04e920db6c45ddb7c09fec51204a14", null ],
+    [ "SetBoundingBoxDirty", "a00977.html#aa4b4814b028d96b8198b5a34e795e24c", null ],
+    [ "SetLocation", "a00977.html#a0c337c39977f98a6c804bc5a4d728a30", null ],
+    [ "SetMirror", "a00977.html#a1eb2052858d8e81d8b84ed6258d4aa20", null ],
+    [ "SetRotation", "a00977.html#a7a5ccc455083132c787139db986a9d0b", null ],
+    [ "sGenerateBundleObjectName", "a00977.html#a765d0e09c9219d86c1457437cf632e13", null ],
+    [ "sGetHotSpotX", "a00977.html#a257e253e00a3203f71773bc650445ed4", null ],
+    [ "sGetHotSpotY", "a00977.html#ac2e5f751dba6a31816280c3ca6a3a7d8", null ],
+    [ "sGetNetName", "a00977.html#a00be390954a07a7ef9eba3ea6ed146bc", null ],
+    [ "sGetSourceLibName", "a00977.html#aa6832d1ce7cf5d0c3a3f3b858c1d1a4d", null ],
+    [ "sGetSourceSymbolName", "a00977.html#ae81453af68f20ab7540e61c52b86cdfa", null ]
+];
